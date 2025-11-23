@@ -9,7 +9,7 @@ This project performs **customer segmentation** using RFM analysis and predicts 
 - Residual plots and predicted LTV display
 
 **Demo:**  
-![Demo Video](link-to-your-demo-video-or-gif)
+![Demo Video](https://youtu.be/5ajCyfCsvAc)
 
 **Setup:**
 ```bash
